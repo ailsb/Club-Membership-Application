@@ -101,7 +101,8 @@ Yii::app()->clientScript->registerScriptFile(Yii::app()->baseUrl.'/scripts/core.
 					<script type="text/javascript" language="javascript" src="<?php echo (!empty($_SERVER['HTTPS']) ? 'https://ssl.microsofttranslator.com' : 'http://www.microsofttranslator.com') . '/ajax/v2/widget.aspx?mode=manual&from=en&layout=ts'; ?>"></script> 				
 				</div>
 				<div class="col one_third">
-					<h4>Something</h4>
+					<h4>Copyright</h4>
+					<p>All thje copyright are belong to swedish club of WA</p>
 				</div>
 				<div class="col one_third">
 					<h4>Follow Us</h4>
